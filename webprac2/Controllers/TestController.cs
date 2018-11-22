@@ -13,5 +13,9 @@ namespace webprac2.Controllers
         {
             return View();
         }
+        public ActionResult Sample1()
+        {
+            return View();
+        }
     }
 }
